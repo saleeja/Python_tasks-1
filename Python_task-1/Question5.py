@@ -2,7 +2,6 @@
      print failed if the score is below 50, if score > 100 print invalid"""
 
 
-
 score = int(input("Enter the student score: "))
 
 if score > 100:
