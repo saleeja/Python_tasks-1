@@ -1,6 +1,5 @@
 """10 Find the sum of all even numbers between the range given by user"""
 
-# Accept range from the user
 start = int(input("Enter the starting number: "))
 end = int(input("Enter the ending number: "))
 

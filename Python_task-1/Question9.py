@@ -1,6 +1,5 @@
 """9    Find the factorial of a number taken as input using while loop"""
 
-# Accept input from the user
 number = int(input("Enter a number to find its factorial: "))
 
 # Initialize the factorial variable

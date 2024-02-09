@@ -1,6 +1,5 @@
 """11.Find the sum of all odd numbers between the rane given by user using while loop"""
 
-# Accept range from the user
 start = int(input("Enter the starting number: "))
 end = int(input("Enter the ending number: "))
 
